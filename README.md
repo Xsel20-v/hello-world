@@ -1,2 +1,4 @@
 # hello-world
-tugas cavis bncc
+
+
+halo nama saya jonathan axel dan saya ingin mengerjakan tugas bncc
